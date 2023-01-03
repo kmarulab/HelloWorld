@@ -18,8 +18,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='https://imgur.com/a/GVxu56v' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/GVxu56v
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
